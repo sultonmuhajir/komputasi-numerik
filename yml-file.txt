@@ -1,0 +1,17 @@
+site_name: Komputasi Numerik
+theme: readthedocs
+
+# Page
+nav:
+- Home : index.md
+- Error in Numerical Computation : error.md
+- Numerical Solution : root.md
+- Gauss Elimination : gaus.md
+- Romberg Method : romberg.md
+- Richardson Extrapolation : richardson.md
+- Euler Method : euler.md
+- Monte Carlo Method : carlo.md
+
+
+# Copyright
+copyright: '&copy; 2020 All Rights Reserved by Sulton Muhajir'
